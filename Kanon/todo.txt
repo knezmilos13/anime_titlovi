@@ -1,0 +1,62 @@
+﻿SCALE BORDER AND SHADOW
+
+NAPRED, ZAR NE @:
+ep 01 * 1
+ep 02 * 1
+ep 12 * 1
+ZAVRSILI SU SE CASOVI@:
+ep02 * 1
+ep11 * 1
+ep 14
+
+lutka/andjeo
+ep 12 - muski rod vise puta
+
+skolski bal
+ep11 * 3
+ep12
+ep13
+
+{me no mae - tebi bliskog, potencijalno primeniti retrospektivno}
+
+Niko ne primecuje prizor malog deteta koje sedi na klupi.{OVO JE BILO RANIJE} -> samo drugacije napisano
+
+dobro dosao odvojeno
+
+Persira tetki:
+ep 02
+
+KAPETANKA -> KAPITENKA
+
+jela i pobegla -> ugrabila i pobegla (u prvih par epizoda izmeni)
+
+
+
+
+
+
+*ja volim moju => svoju
+*radosnih vremena => trenutaka?
+*bonsai stablo? adfuq?
+*njena smotanost je oduvek bila takva. => zaboga milose xD
+*Iako znam~~~ (nova linija), a ~~~
+*odluci se, ili "iako" na pocektu ili "a" u sredini
+*do vraga => dovraga?
+
+maraton nije maraton, search in files za ovo, ima ga na jedno dva mesta
+
+Dialogue: 0,0:03:12.42,0:03:15.69,Default,Yuu,0000,0000,0000,,Sledeci put cu ti doneti direktorov sto, ako želiš.
+Dialogue: 0,0:03:17.41,0:03:19.28,Default,Yuu,0000,0000,0000,,Moci ceš da se igraš "Direktora".
+Zašto veliko slovo i zašto navodnici? Moci ceš da se igraš "Žmurke"?
+
+Dialogue: 0,0:05:19.98,0:05:21.83,Default,Yuu,0000,0000,0000,,Ne vredi da razbijam glavu o tome.
+Ne vredi da razbijam glavu time.
+
+Dialogue: 0,0:14:13.40,0:14:16.00,Default,Shi,0000,0000,0000,,Voliš li sneg, Juici?
+Dialogue: 0,0:14:16.00,0:14:17.88,Default,Yuu,0000,0000,0000,,Ne, pošto je hladan.
+Dialogue: 0,0:14:17.88,0:14:19.94,Default,Shi,0000,0000,0000,,Ja ga volim.
+Dialogue: 0,0:14:19.94,0:14:21.28,Default,Shi,0000,0000,0000,,Pošto je tako lep.
+Nešto slicno je bilo i u prethodnim epizodama, mislim da ovde odgovara "zato što" a ne "pošto". U prvoj sigruno, a u drugoj je diskutabilno jer prica jedna ista osoba. Mada ako si stavio tacku, nekako mi cudo zvuci da recenica pošne "Pošto...".
+
+Dialogue: 0,0:21:17.58,0:21:20.15,Default,Mak,0000,0000,0000,,Š-Šta je? Ismevaš li me?
+Ovo je rekla u histeriji, bila je besna, nekako mi je delovalo skroz neprirodno. "Ismevaš me(, a)?!"
