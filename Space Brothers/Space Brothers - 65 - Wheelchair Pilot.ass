@@ -11,14 +11,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Space brothers
-Audio File: G:/[HorribleSubs] Space Brothers (01-99) [720p] (Batch)/[HorribleSubs] Space Brothers - 65 [720p].mkv
-Video File: G:/[HorribleSubs] Space Brothers (01-99) [720p] (Batch)/[HorribleSubs] Space Brothers - 65 [720p].mkv
+Audio File: G:/Space Brothers/[Commie] Space Brothers - 65 [5AD219A4].mkv
+Video File: G:/Space Brothers/[Commie] Space Brothers - 65 [5AD219A4].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 270
-Active Line: 45
-Video Position: 5912
+Scroll Position: 21
+Active Line: 29
+Video Position: 3718
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +31,7 @@ Style: dates,Arial,50,&H00F1EEF9,&H000000FF,&H000B1625,&H960B1625,-1,0,0,0,100,8
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:01.87,0:00:05.36,Typesetting,,0,0,0,,Verzija 1 (prekontrolisana) - 11. mart 2016.
+Comment: 0,0:00:01.87,0:00:05.36,Typesetting,,0,0,0,,Verzija 1b (prekontrolisana) - 05. septembar 2016.
 Dialogue: 5,0:00:03.35,0:00:04.71,Default,Mutta,0,0,0,,{\i1}Šaron ima...
 Dialogue: 5,0:00:15.05,0:00:17.66,Default,Mutta,0,0,0,,{\i1}Šaron ima ALS...
 Dialogue: 5,0:00:25.92,0:00:28.88,Default,Mu,0,0,0,,{\i1}Ne vredi... Ne mogu da se skoncentrišem...{ep64}
@@ -59,6 +59,8 @@ Dialogue: 5,0:01:52.50,0:01:54.29,Default,Sharon,0,0,0,,Moraćeš puno toga da n
 Dialogue: 5,0:01:55.81,0:01:57.15,Default,Sharon,0,0,0,,{\i1}Jesi li spreman?
 Dialogue: 5,0:02:19.26,0:02:21.89,Default,Sharon,0,0,0,,{\i1}Lepo rečeno, Muta!
 Dialogue: 5,0:02:35.00,0:02:35.05,Default,,0,0,0,,{OP}
+Dialogue: 1,0:02:35.05,0:02:42.35,Naslov S,,0,0,0,,{\fad(400,800)\fax-0.22\fay-0.11\bord4\blur4\c&H8D4220&\fs130\pos(529,256)\frz5.009}Svemirska braća
+Dialogue: 1,0:02:35.05,0:02:42.35,Naslov S,,0,0,0,,{\fad(400,800)\fs50\fax-0.27\fay-0.098\bord2\blur2\c&H8E4722&\frz5.55\pos(956,597.666)}www.anime-overdose.com\Nprevod i obrada: Knez Miloš
 Dialogue: 0,0:02:42.35,0:02:46.93,Pesmice,,0,0,0,,Što više stvari spakujem u svoju torbu
 Dialogue: 0,0:02:46.93,0:02:52.69,Pesmice,,0,0,0,,teža će biti - drugačije ne može.
 Dialogue: 0,0:02:52.69,0:02:57.24,Pesmice,,0,0,0,,Što se više trudim, bliži sam svom cilju,
