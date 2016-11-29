@@ -156,7 +156,7 @@ Dialogue: 0,0:12:19.14,0:12:23.43,Default,Mu,0,0,0,,{\i1}Kroz samo par meseci, �
 Dialogue: 0,0:12:24.28,0:12:27.76,Default,Mu,0,0,0,,{\i1}Sigurno su joj doktori rekli o tome.
 Dialogue: 0,0:12:29.36,0:12:31.95,Default,Mu,0,0,0,,{\i1}Ali ona je nastavila da se osmehuje.
 Dialogue: 0,0:12:38.47,0:12:39.44,Default,Mu,0,0,0,,Šaron!
-Dialogue: 0,0:12:41.88,0:12:45.95,Default,Mu,0,0,0,,Verovatno će trebati bar tri ili četiri godine da se ovo ostvari,{ep70}
+Dialogue: 0,0:12:41.88,0:12:45.95,Default,Mu,0,0,0,,Verovatno će trebati bar tri ili četiri godine da se ovo ostvari,{ep70,83}
 Dialogue: 0,0:12:47.28,0:12:51.99,Default,Mu,0,0,0,,ali planiram da budem izabran prvi da odem na Mesec i izgradim tvoj teleskop.{ep67}
 Dialogue: 0,0:12:56.59,0:12:58.08,Default,Sharon,0,0,0,,Hvala ti.
 Dialogue: 0,0:12:58.08,0:12:59.58,Default,Sharon,0,0,0,,Jedva čekam da to vidim.

@@ -176,7 +176,7 @@ Dialogue: 0,0:12:33.99,0:12:37.96,Default,Sharon,0,0,0,,Ima dvojica astronauta k
 Dialogue: 0,0:12:38.98,0:12:39.02,Default,,0,0,0,,{part b}
 Dialogue: 0,0:12:39.40,0:12:45.72,Default,Sharon,0,0,0,,Stoga, idealna lokacija bi bila na tamnoj strani Meseca ili u nekom od kratera.
 Dialogue: 0,0:12:46.76,0:12:53.82,Default,Sharon,0,0,0,,Trenutno za lokaciju izgradnje razmatramo krater Šekelton.
-Dialogue: 0,0:12:54.90,0:13:01.05,Default,Sharon,0,0,0,,Najverovatniji scenario na Mesecu bi podrazumevao radio teleskop.
+Dialogue: 0,0:12:54.90,0:13:01.05,Default,Sharon,0,0,0,,Najverovatniji scenario na Mesecu bi podrazumevao radio teleskop.{ep82}
 Dialogue: 0,0:13:03.09,0:13:06.88,Default,A,0,0,0,,Radio teleskopi ne daju preterano oštru sliku.
 Dialogue: 0,0:13:06.88,0:13:09.92,Default,A,0,0,0,,Zar ne bi optički teleskop bio bolji izbor?
 Dialogue: 0,0:13:09.92,0:13:11.26,Default,B,0,0,0,,Ne, to neće raditi.
