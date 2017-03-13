@@ -161,7 +161,7 @@ Dialogue: 0,0:13:25.06,0:13:27.22,Default,Hibi,0000,0000,0000,,{\i1}Još uvek ni
 Dialogue: 0,0:13:29.72,0:13:31.15,Default,Hibi,0000,0000,0000,,{\i1}Ali samo još malo.
 Dialogue: 0,0:13:43.04,0:13:45.46,Default,Hibi,0000,0000,0000,,Vidiš li to, Damjane?
 Dialogue: 0,0:14:04.32,0:14:05.57,Default,Hibi,0000,0000,0000,,Blistavo je.
-Dialogue: 0,0:14:22.96,0:14:24.67,Default,Hibi,0000,0000,0000,,Izašli smo, Damjane!
+Dialogue: 0,0:14:22.96,0:14:24.67,Default,Hibi,0000,0000,0000,,Izašli smo, Damjane!{ep91}
 Dialogue: 0,0:14:33.12,0:14:33.95,Default,Hibi,0000,0000,0000,,Damjane,
 Dialogue: 0,0:14:34.76,0:14:35.96,Default,Hibi,0000,0000,0000,,ne daj se.
 Dialogue: 0,0:14:43.32,0:14:45.71,Default,Hibi,0000,0000,0000,,{\i1}Na suncu je preko 110 stepeni Celzijusa.
@@ -209,7 +209,7 @@ Dialogue: 0,0:17:58.28,0:18:01.10,Default,Dami,0000,0000,0000,,Gde ćeš ti, Hib
 Dialogue: 0,0:18:01.52,0:18:05.83,Default,Hibi,0000,0000,0000,,Postoji nešto što sam oduvek želeo da probam.{ep43 i gomila ispod}
 Dialogue: 0,0:18:12.54,0:18:15.03,Default,Hibi,0000,0000,0000,,Da prošetam Mesecom sam.
 Dialogue: 0,0:18:30.75,0:18:33.25,Default,Dami,0000,0000,0000,,Hibito... Hibito...
-Dialogue: 0,0:18:51.88,0:18:54.82,Default,Hibi,0000,0000,0000,,{\i1}Još osam minuta kiseonika...
+Dialogue: 0,0:18:51.88,0:18:54.82,Default,Hibi,0000,0000,0000,,{\i1}Još osam minuta kiseonika...{ep91}
 Dialogue: 0,0:18:56.88,0:18:57.97,Default,Hibi,0000,0000,0000,,{\i1}Osam minuta, je li?
 Dialogue: 0,0:18:58.67,0:18:59.74,Default,Hibi,0000,0000,0000,,{\i1}Dovraga!
 Dialogue: 0,0:19:28.07,0:19:31.69,Default,Hibi,0000,0000,0000,,{\i1}Ako ću već da umrem, bolje da opet padnem u ovu uvalu{ep41,43}

@@ -16,6 +16,8 @@ Video File: [Commie] Space Brothers - 62 [86634CE9].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
+Scroll Position: 54
+Active Line: 77
 Video Position: 39
 
 [V4+ Styles]
@@ -106,7 +108,7 @@ Dialogue: 0,0:06:35.89,0:06:40.04,Default,Oli,0,0,0,,Tokom rehabilitacije radić
 Dialogue: 0,0:06:42.40,0:06:48.09,Default,Oli,0,0,0,,Spavaćete, raditi testove, vežbati, pa ponovo spavati...
 Dialogue: 0,0:06:48.59,0:06:50.55,Default,Oli,0,0,0,,To će biti vaš ciklus.
 Dialogue: 0,0:06:58.83,0:07:02.43,Default,Oli,0,0,0,,Tako je, ekstremno ćete biti umorni.
-Dialogue: 0,0:07:24.71,0:07:26.31,Default,Sharon,0,0,0,,Slušaj, Hibito...
+Dialogue: 0,0:07:24.71,0:07:26.31,Default,Sharon,0,0,0,,Slušaj, Hibito...{ep91}
 Dialogue: 0,0:07:26.31,0:07:27.36,Default,Sharon,0,0,0,,Zapamti ovo.
 Dialogue: 0,0:07:28.12,0:07:30.16,Default,Hibi,0,0,0,,Ha? Šta to?
 Dialogue: 0,0:07:31.49,0:07:35.78,Default,Sharon,0,0,0,,Ti imaš moć da vodiš svog brata.

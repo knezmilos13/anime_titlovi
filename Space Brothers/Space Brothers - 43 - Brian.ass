@@ -174,7 +174,7 @@ Dialogue: 0,0:14:51.36,0:14:52.57,Default,Hibi,0000,0000,0000,,E, stvarno...
 Dialogue: 0,0:14:53.59,0:14:56.83,Default,Hibi,0000,0000,0000,,Sada bi mi baš dobrodošla tvoja pomoć.
 Dialogue: 0,0:15:13.56,0:15:16.51,Default,Hibi,0000,0000,0000,,{\i1}Izvini, Muta...
 Dialogue: 0,0:15:23.27,0:15:24.69,Default,Bud,0000,0000,0000,,Dovraga!
-Dialogue: 0,0:15:24.69,0:15:26.65,Default,Bud,0000,0000,0000,,Hibito će ostati bez kiseonika!
+Dialogue: 0,0:15:24.69,0:15:26.65,Default,Bud,0000,0000,0000,,Hibito će ostati bez kiseonika!{ep91}
 Dialogue: 0,0:15:26.65,0:15:28.22,Default,Fred,0000,0000,0000,,Smiri se, Badi...
 Dialogue: 0,0:15:28.22,0:15:29.86,Default,Fred,0000,0000,0000,,Ili ćemo i mi nastradati!
 Dialogue: 0,0:15:30.39,0:15:31.60,Default,Bud,0000,0000,0000,,Znam to.
@@ -186,7 +186,7 @@ Dialogue: 0,0:15:43.36,0:15:46.63,Default,Fred,0000,0000,0000,,Upravo dajemo sve
 Dialogue: 0,0:15:49.21,0:15:50.88,Default,Fred,0000,0000,0000,,Ne možemo ništa više...
 Dialogue: 0,0:15:50.88,0:15:52.18,Default,Fred,0000,0000,0000,,Jasno ti je, zar ne?
 Dialogue: 0,0:15:54.89,0:15:58.03,Default,Fred,0000,0000,0000,,Koncentriši se na to da stignemo tamo bezbedno!
-Dialogue: 0,0:16:33.70,0:16:34.87,Default,Hibi,0000,0000,0000,,{\i1}Vreme je...
+Dialogue: 0,0:16:33.70,0:16:34.87,Default,Hibi,0000,0000,0000,,{\i1}Vreme je...{ep91}
 Dialogue: 0,0:16:36.30,0:16:37.68,Default,Azu,0000,0000,0000,,Ovde Hjuston!
 Dialogue: 0,0:16:37.68,0:16:39.47,Default,Azu,0000,0000,0000,,Hibito, javi se!
 Dialogue: 0,0:16:39.87,0:16:41.02,Default,Azu,0000,0000,0000,,Ovde Hjuston,
