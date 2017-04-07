@@ -110,7 +110,7 @@ Dialogue: 0,0:06:28.99,0:06:30.24,Default,Ken,0000,0000,0000,,Zar postoji takav 
 Dialogue: 0,0:06:34.70,0:06:37.25,Default,Michael,0000,0000,0000,,R-Razumem, proveriću monitor...
 Dialogue: 0,0:06:40.21,0:06:43.29,Default,Brian,0000,0000,0000,,Ugasi alarm! Ne možemo da pričamo od ove buke!
 Dialogue: 0,0:06:43.29,0:06:44.17,Default,Tuck,0000,0000,0000,,Razumem.
-Dialogue: 0,0:06:48.26,0:06:50.13,Default,Michael,0000,0000,0000,,Proverio sam na monitoru!
+Dialogue: 0,0:06:48.26,0:06:50.13,Default,Michael,0000,0000,0000,,Proverio sam na monitoru!{ep95}
 Dialogue: 0,0:06:50.13,0:06:52.51,Default,Michael,0000,0000,0000,,Prokletstvo, padobrani su se umrsili!
 Dialogue: 0,0:06:53.26,0:06:54.26,Default,Michael,0000,0000,0000,,Ne vredi...
 Dialogue: 0,0:06:54.26,0:06:56.52,Default,Michael,0000,0000,0000,,Izgubili smo svu kontrolu!
